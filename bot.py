@@ -4,7 +4,7 @@ import random
 import string
 
 # ========================= CONFIG =========================
-TOKEN = "MTUxOTc0MDE5MzcxNDczNzIxNA.GKzgZB.Pmu_CCUoa7Cw0jOb82sHCfvIO7bMQnT6p5xkGM"   # ← PUT YOUR TOKEN HERE
+TOKEN = "MTUxOTc0MDE5MzcxNDczNzIxNA.GQteMS.7XkPmko9q5kUPo00xjiWRcB7irVufTOQ9El8XA"   # ← PUT YOUR TOKEN HERE
 PREFIX = "skimunch-"
 ALLOWED_CHANNEL_ID = 1519740545277231286
 RESET_PASSWORD = "skis"
